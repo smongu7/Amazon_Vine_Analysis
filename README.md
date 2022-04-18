@@ -2,7 +2,7 @@
 ## Overview 
 The purpose of this module and analysis was to introduce us to the concept of big data and practice working with it using pyspark. In order to do this, we learned how to:
 - define big data
-- describe some challenge of big data
+- describe some challenges of big data
 - define Hadoop
 - name main elements of Hadoop's ecosystem
 - explain how MapReduce processes data
@@ -12,7 +12,6 @@ The purpose of this module and analysis was to introduce us to the concept of bi
 - use and explain AWS S3 as well as relational databases for basic cloud storage
 - complete an analysis of Amazon customer reviews
 ## Results 
-Using bulleted lists and images of DataFrames as support, address the following questions:
 
 - There were 266 total Vine reviews.
 - There were 38,829 total non-Vine reviews of home improvement items.
