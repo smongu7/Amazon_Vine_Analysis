@@ -13,6 +13,12 @@ The purpose of this module and analysis was to introduce us to the concept of bi
 - complete an analysis of Amazon customer reviews
 ## Results 
 
+![paid](https://user-images.githubusercontent.com/94420548/163889757-bfe21f26-64d9-4854-a411-8bad0361e36a.png)
+
+![unpaid](https://user-images.githubusercontent.com/94420548/163889768-4fa06a65-7c6d-4a43-8dd3-5831aa37ff21.png)
+
+![code-img](https://user-images.githubusercontent.com/94420548/163889778-51b1bc6f-90ce-43f2-90b5-d5a59e8dd314.png)
+
 - There were 266 total Vine reviews.
 - There were 38,829 total non-Vine reviews of home improvement items.
 - There were 125 5-star Vine reviews.
